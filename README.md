@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
+<h1 align="center">Hi 👋, I'm Mateus, know on web3 community as Akira</h1>
 <h3 align="center">A Project Manager and Backend developer from Brazil. Started my carrier as Project Manager on web3 projects and to go even more deep I got into the development sector, foccusing on backend but also skilled in frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akirashirou&label=Profile%20views&color=0e75b6&style=flat" alt="akirashirou" /> </p>
