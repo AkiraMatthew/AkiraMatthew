@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>Workspace</p>
-<p align="left"><a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a></p>
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akirashirou&show_icons=true&locale=en&layout=compact" alt="akirashirou" /></p>
 
