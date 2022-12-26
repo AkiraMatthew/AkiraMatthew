@@ -20,7 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akirashirou&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <div>
-<a href="https://twitter.com/akira_krypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akira_krypto" height="30" width="40" /></a>
 
 <p><a><img href="" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>: Akira.ts#5604 (only work)
 </p>
@@ -78,6 +77,7 @@
 <div>
     <img align="center "alt="Adobe_Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img align="center "alt="Adobe_After_Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
+    <img align="center "alt="tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
     <a href="https://www.codewars.com/users/AkiraShirou"><img align="center "alt="codewarks" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 </div>
 
