@@ -79,6 +79,7 @@
     <img align="center "alt="Adobe_After_Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
     <img align="center "alt="tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
     <a href="https://www.codewars.com/users/AkiraShirou"><img align="center "alt="codewarks" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
+    <img href="" alt="OpenAI" align="top-center" src="https://miro.medium.com/max/1400/0*c-PJKeN6JqEUKyZ8.png" height=28px /></a>
 </div>
 
  <br><br>
