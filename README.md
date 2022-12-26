@@ -62,11 +62,11 @@
     <img align="center "alt="postman" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" height=40px >
 </div>
 <h3>Frameworks, and Libraries:</h3>
+<div>
     <img align="center "alt="npm" src="https://img.shields.io/npm/v/express" />
     <img align="center "alt="babel" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" height=25px/>
     <img align="center "alt="webpack" src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" height=25px />
     <img align="center "alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-<div>
 </div>
 <h3>Database:</h3>
 <div>
@@ -78,7 +78,6 @@
 <div>
     <img align="center "alt="Adobe_Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
     <img align="center "alt="Adobe_After_Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-    <img align="center "alt="tails" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
     <a href="https://www.codewars.com/users/AkiraShirou"><img align="center "alt="codewarks" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 </div>
 
