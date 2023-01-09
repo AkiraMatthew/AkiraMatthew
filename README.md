@@ -21,8 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
 
-<p><a><img href="" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>: Akira.ts#5604 (only work)
-</p>
+<p><a><img href="" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 </div>
 
 <br>
