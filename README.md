@@ -63,8 +63,8 @@
 </div>
 <h3>Frameworks, and Libraries:</h3>
 <div>
-    <img align="center "alt="npm" src="https://img.shields.io/npm/v/express" />
-    <img align="center "alt="babel" src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" height=25px/>
+    <img align="center "alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <img align="center "alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" height=25px/>
     <img align="center "alt="webpack" src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" height=25px />
     <img align="center "alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 </div>
