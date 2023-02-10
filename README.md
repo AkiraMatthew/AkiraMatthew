@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateus, know on web3 and developer community as Akira</h1>
 <img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
-<h3 align="center">Passionate about the infinite possibilities that programming can make. Started my carrier as Project Manager on web3 projects and to go even more deeper I got into the development sector, focused on backend but also skilled in frontend where I try to break my potential limits everyday.
-Co-founder of TrustVibes company, bringing the next generation of Creator Economy on web3 with ownership monetization for Creators and its fans!
-</h3>
+<h3 align="left">. Passionate about the infinite possibilities that programming can bring</h3>
+<h3>. Started my carrier as Project Manager on web3 projects and to go even more deeper I got into the development sector, focused on backend but also skilled in frontend where I try to break my potential limits everyday.</h3>
+<h3>. Co-founder of TrustVibes company, bringing the next generation of Creator Economy on web3 with ownership monetization for Creators and its fans!</h3>
 
 
 
@@ -26,7 +26,7 @@ Co-founder of TrustVibes company, bringing the next generation of Creator Econom
 
 <br>
 
-<h2 align="left">Languages and Tools that I often use:</h2>
+<h2 align="left">Languages and Tools that I use often:</h2>
 <h3>Languages:</h3>
 <div>
     <img align="center "alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,7 +59,7 @@ Co-founder of TrustVibes company, bringing the next generation of Creator Econom
     <img align="center "alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center "alt="postman" src="https://miro.medium.com/max/1200/1*QOx_tPV5wJnhTzAGhfIiLA.png" height=40px >
+    <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 <h3>Frameworks, and Libraries:</h3>
 <div>
