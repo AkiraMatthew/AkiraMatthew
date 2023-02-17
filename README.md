@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateus-henrique-705340213/](https://www.linkedin.com/in/mateus-henrique-705340213/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akirashirou&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <div>
 
@@ -50,7 +50,7 @@
 <h3>Version Control:</h3>
 <div>
     <img align="center "alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <a href="https://github.com/AkiraShirou"><img align="center "alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/AkiraMatthew"><img align="center "alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <h3>Workspace:</h3>
 <div>
@@ -85,6 +85,6 @@
 
  <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akirashirou&layout=compact)](https://github.com/akirashirou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiramatthew&layout=compact)](https://github.com/akiramatthew/github-readme-stats)
 
 
