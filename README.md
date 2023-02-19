@@ -65,7 +65,7 @@
 <div>
     <img align="center "alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img align="center "alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" height=25px/>
-    <img align="center "alt="webpack" src="![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)" height=25px />
+    <img align="center "alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height=25px />
     <img align="center "alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 </div>
 <h3>Database:</h3>
