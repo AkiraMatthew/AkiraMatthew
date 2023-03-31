@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mateus, know on web3 and developer community as Akira</h1>
+<h1 align="center">Hi 👋, I'm Mateus, recognized on web3 and developer community as Akira</h1>
 <img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
-<h3 align="left">. Started my carrier as Project Manager on web3 projects where I revived my passion for coding</h3>
-<h3>. Focused on backend and skilled in frontend</h3>
-<h3>. TrustVibes Cofounder and PersonifiAi Project Manager/Frontend developer</h3>
+<h3 align="left">. I began my career as a Project Manager for web3 projects, which ignited my passion for coding.</h3>
+<h3>. Primarily specialized in backend development with proficiency in frontend skills.</h3>
+<h3>. Co-founder of TrustVibes and currently serving as the Project Manager and Frontend Developer for PersonifiAi</h3>
 
 
 
