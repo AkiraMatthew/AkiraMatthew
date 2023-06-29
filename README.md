@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/akira_krypto" target="blank"><img src="https://img.shields.io/twitter/follow/akira_krypto?logo=twitter&style=for-the-badge" alt="akira_krypto" /></a> </p>
 
-- 🔭 I’m currently working on [TrustVibes](https://trustvibes.io/)
+- 🔭 I’m currently working on [Solus Labs](https://soluslabs.xyz/)
 
 - 📫 How to reach me **akira.dev.math@gmail.com**
 
