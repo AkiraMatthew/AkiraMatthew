@@ -81,11 +81,6 @@
     <img align="center "alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center "alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
 <div/>
-    
-//<h3>Blockchain:</h3>
-//<div>
-//    <img align="center "alt="psql" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-//<div/>
 
 <h3>Design Tools:</h3>
 <div>
