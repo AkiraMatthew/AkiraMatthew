@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Solus Labs](https://soluslabs.xyz/)
 
-- 📫 How to reach me **akira.dev.math@gmail.com**
+- 📫 How to reach me **akirasoluslabs@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateus-henrique-705340213/](https://www.linkedin.com/in/mateus-henrique-705340213/)
 
