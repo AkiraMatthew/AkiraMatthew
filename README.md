@@ -62,6 +62,7 @@
     <img align="center "alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center "alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center "alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img href="https://chat.openai.com" alt="OpenAI" align="top-center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mikesinn%2Fautomatically-start-wsl-ssh-and-various-services-on-windows-845dfda89690&psig=AOvVaw1cFfiGQEdSqCPpD8rEqVS5&ust=1692236421132000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj7uo2G4IADFQAAAAAdAAAAABAD" height=28px />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -91,7 +92,7 @@
     
 <h3>AI Tools:</h3>
 <div>
-    <img href="" alt="OpenAI" align="top-center" src="https://miro.medium.com/max/1400/0*c-PJKeN6JqEUKyZ8.png" height=28px /></a>
+    <a><img href="https://chat.openai.com" alt="OpenAI" align="top-center" src="https://miro.medium.com/max/1400/0*c-PJKeN6JqEUKyZ8.png" height=28px /></a>
 <div/>
  <br><br>
 
