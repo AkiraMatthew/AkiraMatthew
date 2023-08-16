@@ -2,7 +2,8 @@
 <img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
 <h3 align="left">. I began my career as a Project Manager for web3 projects, which ignited my passion for coding.</h3>
 <h3>. Primarily specialized in backend development with proficiency in frontend skills.</h3>
-<h3>. Co-founder of TrustVibes and currently serving as the Project Manager and Frontend Developer for PersonifiAi</h3>
+<h3>. Developing Blockchain Solutions since 2021, with non-technical and technical experience. </h3>
+<h3>. Currently working as Regional Director on Solus Labs</h3>
 
 
 
@@ -62,7 +63,7 @@
     <img align="center "alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center "alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center "alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img href="https://chat.openai.com" alt="OpenAI" align="top-center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mikesinn%2Fautomatically-start-wsl-ssh-and-various-services-on-windows-845dfda89690&psig=AOvVaw1cFfiGQEdSqCPpD8rEqVS5&ust=1692236421132000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj7uo2G4IADFQAAAAAdAAAAABAD" height=28px />
+    <img href="https://chat.openai.com" alt="WSL2" align="top-center" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height=28px />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
