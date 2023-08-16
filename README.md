@@ -3,7 +3,7 @@
 <h3 align="left">. I began my career as a Project Manager for web3 projects, which ignited my passion for coding.</h3>
 <h3>. Primarily specialized in backend development with proficiency in frontend skills.</h3>
 <h3>. Developing Blockchain Solutions since 2021, with non-technical and technical experience. </h3>
-<h3>. Currently working as Regional Director on Solus Labs</h3>
+<h3>. Currently working as Regional Director at Solus Labs.</h3>
 
 
 
