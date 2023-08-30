@@ -65,7 +65,7 @@
     <img align="center "alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img href="https://chat.openai.com" alt="WSL2" align="top-center" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height=28px />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center "alt="vscode" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center "alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
@@ -76,6 +76,7 @@
     <img align="center "alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" height=25px/>
     <img align="center "alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height=25px />
     <img align="center "alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+    <img href="https://chat.openai.com" alt="WSL2" align="top-center" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height=28px />
 </div>
 
 <h3>Database:</h3>
