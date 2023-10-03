@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **akira.dev.math@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mateus-henrique-705340213/](https://www.linkedin.com/in/mateus-henrique-705340213/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <div>
