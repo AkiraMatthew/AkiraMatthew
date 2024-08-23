@@ -10,7 +10,7 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/akira_krypto" target="blank"><img src="https://img.shields.io/twitter/follow/akira_krypto?logo=twitter&style=for-the-badge" alt="akira_krypto" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/akira_krypto](https://x.com/AkiraDSol)" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
 
 - 🔭 I’m currently free to work
 
