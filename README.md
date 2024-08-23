@@ -10,11 +10,13 @@
 <br>
 
 
-<p align="left"> <a href="[https://twitter.com/akira_krypto](https://x.com/AkiraDSol)" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
+<p align="left"> <a href="https://x.com/AkiraDSol" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
 
 - 🔭 I’m currently free to work
 
-- 📫 How to reach me **akira.dev.math@gmail.com**
+- 📫 How to reach me https://akiradigitalsolutions.com
+
+- 🔭 Email **akira.dev.math@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
