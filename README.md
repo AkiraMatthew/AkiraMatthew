@@ -19,8 +19,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <div>
-
-<p><a><img href="" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
+    <p><a><img href="https://t.me/akiradigitalsolution" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+    <p><a><img href="https://discord.com/users/853661041631821825" alt="Akira.ts#5604" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 </div>
 
 <br>
