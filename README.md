@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently free to work
 
-- 🔭 How to reach me https://akiradigitalsolutions.com
+- 🔭 What do I do? https://akiradigitalsolutions.com
 
 - 📫 Email **akira.dev.math@gmail.com**
 
