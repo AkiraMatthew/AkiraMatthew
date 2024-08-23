@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently free to work
 
-- 📫 How to reach me https://akiradigitalsolutions.com
+- 🔭 How to reach me https://akiradigitalsolutions.com
 
-- 🔭 Email **akira.dev.math@gmail.com**
+- 📫 Email **akira.dev.math@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
