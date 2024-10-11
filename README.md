@@ -2,7 +2,7 @@
 <img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
 <h3 align="left">. I began my career as a Project Manager for web3 projects, which ignited my passion for coding.</h3>
 <h3>. FullStack Developer and Blockchain enthusiast</h3>
-<h3>. Currently working at Akira Digital Solutions</h3>
+<h3>. Currently working as FullStack developer with .NET and React</h3>
 
 
 
@@ -11,11 +11,12 @@
 
 <p align="left"> <a href="https://x.com/AkiraDSol" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
 
-- 🔭 I’m currently free to work
+- 🔭 I’m currently working at Núcleo Loguin Soluções Gráficas
 
-- 🔭 What do I do? https://akiradigitalsolutions.com
+- 🔭 Need any service? https://akiradigitalsolutions.com
 
-- 📫 Email **akira.dev.math@gmail.com**
+- 📫 Email **akira.dev.math@gmail.com** for personal proposals only
+- 📫 Email **akiradigitalsolutionss@gmail.com** for services proposals only
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
