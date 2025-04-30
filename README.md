@@ -2,7 +2,7 @@
 <img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
 <h3 align="left">. I began my career as a Project Manager for web3 projects, which ignited my passion for solving real problems and transforming ideas into products.</h3>
 <h3>. FullStack Engineer</h3>
-<h3>. Currently working as FullStack developer with .NET and React</h3>
+<h3>. Currently working as Backend engineer with .NET</h3>
 
 
 
