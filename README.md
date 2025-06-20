@@ -33,7 +33,7 @@
     <img align="center "alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center "alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
     <img align="center "alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center "alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img align="center "alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
 <h3>Front-end Technologies:</h3>
@@ -44,7 +44,6 @@
     <img align="center "alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center "alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center "alt="nextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img align="center "alt="nextJS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <h3>Back-end Technologies:</h3>
@@ -64,9 +63,7 @@
 <h3>Workspace:</h3>
 <div>
     <img align="center "alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center "alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center "alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img href="https://chat.openai.com" alt="WSL2" align="top-center" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height=28px />
+    <img align="center" alt="WSL2" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height=28px />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center "alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -75,11 +72,7 @@
 <h3>Frameworks, and Libraries:</h3>
 <div>
     <img align="center "alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img align="center "alt="npm" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-    <img align="center "alt="babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" height=25px/>
-    <img align="center "alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height=25px />
     <img align="center "alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-    <img href="https://chat.openai.com" alt="WSL2" align="top-center" src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height=28px />
 </div>
 
 <h3>Database:</h3>
@@ -89,12 +82,6 @@
     <img align="center "alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center "alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
 <div/>
-
-<h3>Design Tools:</h3>
-<div>
-    <img align="center "alt="Adobe_Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    <img align="center "alt="Adobe_After_Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-</div>
     
 <h3>AI Tools:</h3>
 <div>
