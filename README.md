@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
-<img height="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
+<img height="300px" width="300px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
 <h3>. FullStack Engineer</h3>
 <h3>. Currently working as Backend engineer with .NET/React and Azure</h3>
 
@@ -63,7 +63,7 @@
 <h3>Workspace:</h3>
 <div>
     <img align="center "alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="top-center" alt="WSL2" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height="28px" />
+    <img align="top-center" alt="WSL2" src="https://teddycorp.net/wp-content/uploads/2021/08/WSL2-Logo.png" height="28px" width="28px" />
     <img align="center "alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center "alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center "alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -85,7 +85,7 @@
     
 <h3>AI Tools:</h3>
 <div>
-    <a><img href="https://chat.openai.com" alt="OpenAI" align="top-center" src="https://miro.medium.com/max/1400/0*c-PJKeN6JqEUKyZ8.png" height="28px" /></a>
+    <a><img href="https://chat.openai.com" alt="OpenAI" align="top-center" src="https://miro.medium.com/max/1400/0*c-PJKeN6JqEUKyZ8.png" height="28px" width="28px" /></a>
 <div/>
  <br><br>
 
