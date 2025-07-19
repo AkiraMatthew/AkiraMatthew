@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at Núcleo Loguin Soluções Gráficas
 
-- 🔭 Need any service? https://akiradigitalsolutions.com
+- 🔭 Check my website: https://akiradigitalsolutions.com
 
 - 📫 Email **akira.dev.math@gmail.com** for personal proposals only
 - 📫 Email **akiradigitalsolutionss@gmail.com** for services proposals only
