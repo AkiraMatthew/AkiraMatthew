@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <div>
     <p><a href="https://www.linkedin.com/in/mateus-akira-dev/" target="_blank"><img alt="Mateus_Linkedin" align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-    <p><a href="https://t.me/akiradigitalsolution" target="_blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
     <p><a href="https://discord.com/users/853661041631821825" target="_blank"><img alt="Akira.py.net" align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
 </div>
 
