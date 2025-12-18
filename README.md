@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
-<img height="300px" width="400px" align="right" src="https://miro.medium.com/max/694/1*jArPYwQhBbu6aQIeyh0V6A.jpeg">
+<img height="300px" width="400px" align="right" src="https://th.bing.com/th/id/R.83eab36f8ebe21cd09608ea73d95523a?rik=rss%2beh5LjtGYIw&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fMicrosoft-Logo-Transparent-Background.png&ehk=rqBs2L0Wm3uKUNNIPlHrIPBJHzHIZCC8ju1yM4NkW2g%3d&risl=&pid=ImgRaw&r=0">
 <h3>. FullStack Engineer</h3>
 <h3>. Currently working as Backend Engineer with .NET/Azure</h3>
 
