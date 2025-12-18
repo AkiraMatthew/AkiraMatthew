@@ -10,10 +10,7 @@
 
 <p align="left"> <a href="https://x.com/AkiraDSol" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
 
-- 🔭 I’m currently working at Avanade
-
 - 🔭 Check my website: https://akiradigitalsolutions.com
-
 - 📫 Email **akira.dev.math@gmail.com** for personal proposals only
 - 📫 Email **akiradigitalsolutionss@gmail.com** for services proposals only
 
