@@ -8,12 +8,6 @@
 <br>
 
 
-<p align="left"> <a href="https://x.com/AkiraDSol" target="blank"><img src="https://img.shields.io/twitter/follow/akira_digital_solutions?logo=twitter&style=for-the-badge" alt="akira_digital_solutions" /></a> </p>
-
-- 🔭 Check my website: https://akiradigitalsolutions.com
-- 📫 Email **akira.dev.math@gmail.com** for personal proposals only
-- 📫 Email **akiradigitalsolutionss@gmail.com** for services proposals only
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiramatthew&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <div>
